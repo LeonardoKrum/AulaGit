@@ -1,3 +1,3 @@
-let leo;
-let leo2;
-let leo3;
+let varivael = 0;
+
+// Primeira alteração Branch
